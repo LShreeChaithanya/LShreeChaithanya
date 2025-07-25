@@ -1,4 +1,4 @@
-### Hi, I'm Shree Chaithanya 👋
+## Hi, I'm Shree Chaithanya 👋
 
 💻 Full Stack AI Engineer passionate about building intelligent systems with intuitive interfaces.<br/>
 🎓 Pursuing a Dual Degree in **Computer Science and Data Science** from **IIT Madras**.<br/>
