@@ -7,5 +7,4 @@
 🧠 Currently diving deeper into **MLOps**, **Cloud Deployment**, and **Production-Ready AI**.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=LShreeChaithanya&show_icons=true&theme=radical&count_private=true&hide_rank=false)
 ![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=LShreeChaithanya&show_icons=true&theme=aura&count_private=true&hide_rank=false)
