@@ -15,7 +15,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LShreeChaithanya&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LShreeChaithanya&show_icons=true&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LShreeChaithanya&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LShreeChaithanya&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
